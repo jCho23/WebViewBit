@@ -8,7 +8,7 @@ namespace WebViewBit
         {
             InitializeComponent();
 
-            MainPage = new WebViewBitPage();
+            MainPage = new Pages.WebViewPage();
         }
 
         protected override void OnStart()
